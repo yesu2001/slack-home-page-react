@@ -1,4 +1,4 @@
-#Slack Home Page
+# **Slack Home Page**
 
 URL : https://slack-home-page.web.app/
 
